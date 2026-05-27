@@ -1,7 +1,7 @@
 # Hows it goin!
-My name is **Dimitri N. Shepherd**
-*Yes my initals are DNS (a joke my dad thought would be funny)...*
-I'm a 19y/o Full Stack developer serving as a RW3 in the US Navy, building web apps, Minecraft servers, and Discord bots in whatever time the Navy hasn't claimed.
+- My name is **Dimitri N. Shepherd**
+- *Yes my initals are DNS (a joke my dad thought would be funny)...*
+- I'm a 19y/o Full Stack developer serving as a RW3 in the US Navy, building web apps, Minecraft servers, and Discord bots in whatever time the Navy hasn't claimed.
 
 <!--
 **DarkerMatter/DarkerMatter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
