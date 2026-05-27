@@ -5,6 +5,9 @@ My name is **Dimitri N. Shepherd**
 
 I'm a 19y/o Full Stack developer serving as a RW3 in the US Navy, building web apps, Minecraft servers, and Discord bots in whatever time the Navy hasn't claimed.
 
+
+ps. DNS is always the problem...
+
 ## Check out my website!
 https://dimitri.one
 
